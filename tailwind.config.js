@@ -24,6 +24,8 @@ export default {
         "green-button-hover": "#15803d",
         "red-button": "#ef4444",
         "red-button-hover": "#dc2626",
+        "cancel-button": "#2a2f32",
+        "cancel-button-hover": "#1f2428",
       },
       gridTemplateColumns: {
         main: "1fr 2.5fr",
